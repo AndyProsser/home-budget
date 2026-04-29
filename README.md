@@ -2,6 +2,11 @@
 
 Browser-based household budgeting and cashflow planning for mixed billing cycles, shared accounts, and debt tracking.
 
+## Community
+
+- Contribution guide: [CONTRIBUTING.md](CONTRIBUTING.md)
+- Code of Conduct: [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+
 ## What this project solves
 
 Many households are paid fortnightly while bills are due on monthly, annual, or irregular schedules. This project provides a single planning workflow that normalizes those schedules and helps answer one practical question every pay cycle:
