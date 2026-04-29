@@ -33,6 +33,8 @@ Detailed documentation is available in the docs folder:
 - [Calculation engine](docs/calculation-engine.md)
 - [Architecture](docs/architecture.md)
 - [Workflows](docs/workflows.md)
+- [Roadmap](docs/roadmap.md)
+- [UI/UX docs](docs/ui-ux/README.md)
 
 ## Development direction
 
